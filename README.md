@@ -1,3 +1,3 @@
-pets: my own stuff
+# pets: my own stuff
 
-python practice: exercises from https://www.practicepython.org/
+# python practice: exercises from https://www.practicepython.org/
