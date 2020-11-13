@@ -1,3 +1,3 @@
-# tester
+pets: my own stuff
 
-sdfsfd
+python practice: exercises from https://www.practicepython.org/
